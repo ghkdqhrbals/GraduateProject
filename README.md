@@ -1,3 +1,6 @@
 # GraduateProject
 
-최단거리 알고리즘 사용
+![image](mainwindow.png)
+![image](dialog.png)
+![image](dialog2.png)
+![image](result.png)
